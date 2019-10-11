@@ -1,0 +1,6 @@
+README.md
+setup.py
+file_synchronization.egg-info/PKG-INFO
+file_synchronization.egg-info/SOURCES.txt
+file_synchronization.egg-info/dependency_links.txt
+file_synchronization.egg-info/top_level.txt
